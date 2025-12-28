@@ -1,4 +1,4 @@
-# Data Basic Analytics Python
+# Python Basic Data Analytics
 My python data analytics files with Jupyter Notebook
 
 ## Contents
